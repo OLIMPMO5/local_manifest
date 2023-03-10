@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/vayu" name="OLIMPMO5/android_device_xiaomi_vayu.git" remote="github" revision="lineage-20" />
+ <project path="device/xiaomi/sm8150-common" name="OLIMPMO5/android_device_xiaomi_sm8150-common.git" remote="github" revision="lineage-20" />
+ <project path="vendor/xiaomi/vayu" name="OLIMPMO5/android_vendor_xiaomi_vayu.git" remote="github" revision="lineage-20" />
+ <project path="kernel/xiaomi/sm8150" name="OLIMPMO5/android_kernel_xiaomi_sm8150.git" remote="github" revision="lineage-20" />
+ 
+</manifest>
